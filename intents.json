@@ -32,40 +32,40 @@
       "responses": ["Happy to help!", "Any time!", "My pleasure"]
     },
     {
-      "tag": "items",
+      "tag": "address",
       "patterns": [
-        "Which items do you have?",
-        "What kinds of items are there?",
-        "What do you sell?"
+        "What is the location?",
+        "Where is the office located?",
+       
       ],
       "responses": [
-        "We sell coffee and tea",
-        "We have coffee and tea"
+        "KG 569 Street, Kigali",
+        "Rwanda/kigali"
       ]
     },
     {
-      "tag": "payments",
+      "tag": "Minister",
       "patterns": [
-        "Do you take credit cards?",
-        "Do you accept Mastercard?",
+        "who is the minister of MINAGRI?",
+        "who is the minister ?",
         "Can I pay with Paypal?",
         "Are you cash only?"
       ],
       "responses": [
-        "We accept VISA, Mastercard and Paypal",
-        "We accept most major credit cards, and Paypal"
+        "Dr. Gerardine Mukeshimana is the minister of Agriculture and Animal Resources",
+        "Dr. Ildephonse Musafiri is the minister of state"
       ]
     },
     {
-      "tag": "delivery",
+      "tag": "about",
       "patterns": [
-        "How long does delivery take?",
-        "How long does shipping take?",
-        "When do I get my delivery?"
+        "MINAGRI in full?",
+        "what is MINAGRI?",
+        "MINAGRI?"
       ],
       "responses": [
-        "Delivery takes 2-4 days",
-        "Shipping takes 2-4 days"
+        "Ministry of Agriculture and Animal Resources",
+        
       ]
     },
     {
@@ -81,51 +81,26 @@
     "What is the home?",
     "Show me home",
     "How long did it take to have home",
-    "What is RSSB",
     "How do i apply for home?",
     "Who is in Charge of home?"
   ],
    "responses": [
-    "You can use this link https://www.rssb.rw/ for more information"
+    "You can use this link https://www.minagri.gov.rw/
     ]
   },
   {
-    "tag": "schemes",
+    "tag": "Publications",
    "patterns": [
-    "Guide me to schemes?",
-    "Where do you get schemes?",
-    "What is the link to the schemes?",
-    "How do you get schemes?",
-    "How does schemes works?",
-    "How can i get schemes?",
-    "Who is the schemes?",
-    "What is the schemes?",
-    "Show me schemes",
-    "How long did it take to have schemes",
-    "How do i apply for schemes?",
-    "Who is in Charge of schemes?"
-  ],
-   "responses": [
-      "You can use this link https://www.rssb.rw/#schemes for more information"
-  ]
-  },
-  {
-    "tag": "investment",
-   "patterns": [
-    "Guide me to investment?",
-    "Where do you get investment?",
-    "What is the link to the investment?",
-    "How do you get investment?",
+    "Guide me to publications?",
+    "Where do you get laws?",
+    "What is the link to the publications?",
+    "How do you get to reports?",
     "How does investment works?",
-    "How can i get investment?",
-    "Who is the investment?",
-    "What is the investment?",
-    "Show me investment",
-    "How long did it take to have investment",
-    "How do i apply for investment?",
-    "Who is in Charge of investment?"],
+    "How can i get safe guard documents?",
+    "Show me publicationst"
+    ],
    "responses": [
-    "You can use this link https://www.rssb.rw/investment for more information"
+    "You can use this link https://www.minagri.gov.rw/publications/policies-and-strategies
     ]
   },
   {
@@ -164,7 +139,7 @@
     "How do i apply for about?",
     "Who is in Charge of about?"],
    "responses": [
-    "You can use this link https://www.rssb.rw/aboutus for more information"
+    "You can use this link link https://www.minagri.gov.rw/about
     ]
   },
   {
