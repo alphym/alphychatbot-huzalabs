@@ -85,7 +85,7 @@
     "Who is in Charge of home?"
   ],
    "responses": [
-    "You can use this link https://www.minagri.gov.rw/
+    "You can use this link https://www.minagri.gov.rw/"
     ]
   },
   {
@@ -100,29 +100,10 @@
     "Show me publicationst"
     ],
    "responses": [
-    "You can use this link https://www.minagri.gov.rw/publications/policies-and-strategies
+    "You can use this link https://www.minagri.gov.rw/publications/policies-and-strategies"
     ]
   },
-  {
-    "tag": "management",
-   "patterns": [
-   "Guide me to management?",
-    "Where do you get management?",
-    "What is the link to the management?",
-    "How do you get management?",
-    "How does management works?",
-    "How can i get management?",
-    "Who is the management?",
-    "What is the management?",
-    "Show me management",
-    "How long did it take to have management",
-    "How do i apply for management?",
-    "Who is in Charge of management?"
-  ],
-   "responses": [
-    "You can use this link https://www.rssb.rw/management for more information"
-    ]
-  },
+ 
   {
     "tag": "about",
    "patterns": [
@@ -139,27 +120,10 @@
     "How do i apply for about?",
     "Who is in Charge of about?"],
    "responses": [
-    "You can use this link link https://www.minagri.gov.rw/about
+    "You can use this link link https://www.minagri.gov.rw/about"
     ]
   },
-  {
-    "tag": "careers",
-   "patterns": [
-    "Guide me to careers?",
-    "Where do you get careers?",
-    "What is the link to the careers?",
-    "How do you get careers?",
-    "How does careers works?",
-    "How can i get careers?",
-    "Who is the careers?",
-    "What is the careers?",
-    "Show me careers",
-    "How long did it take to have careers",
-    "How do i apply for careers?",
-    "Who is in Charge of careers?"
-  ],
-   "responses": ["You can use this link https://www.rssb.rw/careers for more information"
-   ]},
+ 
   {
     "tag": "news & events",
    "patterns": [
