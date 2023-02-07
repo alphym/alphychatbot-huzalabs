@@ -162,7 +162,8 @@
     "You can use this https://www.minagri.gov.rw/mandate/directorates"
     ]
   },
-    "tag": "Modernization",
+    {
+     "tag": "Modernization",
    "patterns": [
     "Guide me to agriculture modenization?",
     "Where do you get agriculture modenization?",
@@ -180,8 +181,6 @@
     "You can use this https://www.minagri.gov.rw/mandate/directorates/agriculture-development"
     ]
   },
- 
- 
 
   {
     "tag": "AGRISHOW",
