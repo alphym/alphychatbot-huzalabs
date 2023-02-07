@@ -57,7 +57,7 @@
       ]
     },
     {
-      "tag": "about",
+      "tag": "MINAGRI-in-full",
       "patterns": [
         "MINAGRI in full?",
         "what is MINAGRI?",
@@ -141,205 +141,92 @@
     "Who is in Charge of news & events?"
   ],
    "responses": [
-    "You can use this link https://www.rssb.rw/news for more information"
+    "You can use this link https://www.minagri.gov.rw/updates/news"
+    ]
+  },  {
+    "tag": "Mandate",
+   "patterns": [
+    "Guide me to mandate?",
+    "Where do you get directorates?",
+    "What is the link to projects?",
+    "How do you get directorates ?",
+    "How does mandate works?",
+    "How can i get directorates?",
+    "What is the mandate?",
+    "Show me projects",
+    "How long did it take to have mandate",
+    "How do i apply formandate?",
+    "Who is in Charge of projects?"
+  ],
+   "responses": [
+    "You can use this https://www.minagri.gov.rw/mandate/directorates"
     ]
   },
-  {
-    "tag": "Maternity LeaveEnjoy your maternity leave with your full salarylearn more",
+    "tag": "Modernization",
    "patterns": [
-    "Guide me to Maternity LeaveEnjoy your maternity leave with your full salarylearn more?",
-    "Where do you get Maternity LeaveEnjoy your maternity leave with your full salarylearn more?",
-    "What is the link to the Maternity LeaveEnjoy your maternity leave with your full salarylearn more?",
-    "How do you get Maternity LeaveEnjoy your maternity leave with your full salarylearn more?",
-    "How does Maternity LeaveEnjoy your maternity leave with your full salarylearn more works?",
-    "How can i get Maternity LeaveEnjoy your maternity leave with your full salarylearn more?",
-    "Who is the Maternity LeaveEnjoy your maternity leave with your full salarylearn more?",
-    "What is the Maternity LeaveEnjoy your maternity leave with your full salarylearn more?",
-    "Show me Maternity LeaveEnjoy your maternity leave with your full salarylearn more",
-    "How long did it take to have Maternity LeaveEnjoy your maternity leave with your full salarylearn more",
-    "How do i apply for Maternity LeaveEnjoy your maternity leave with your full salarylearn more?",
-    "Who is in Charge of Maternity LeaveEnjoy your maternity leave with your full salarylearn more?"
+    "Guide me to agriculture modenization?",
+    "Where do you get agriculture modenization?",
+    "What is the link to agriculture modenization?",
+    "How do you get agriculture modenization ?",
+    "How does agriculture modenization works?",
+    "How can i get agriculture modenization?",
+    "What is the agriculture modenization?",
+    "Show me agriculture modenization",
+    "How long did it take to have agriculture modenization",
+    "How do i apply for agriculture modenization?",
+    "Who is in Charge ofagriculture modenization?"
   ],
-   "responses": ["You can use this link https://www.rssb.rw/scheme/maternity-leave for more information"
-   ]
+   "responses": [
+    "You can use this https://www.minagri.gov.rw/mandate/directorates/agriculture-development"
+    ]
   },
+ 
+ 
+
   {
-    "tag": "Medical SchemeOur Health, our Futurelearn more",
+    "tag": "AGRISHOW",
    "patterns": [
-    "Guide me to Medical SchemeOur Health, our Futurelearn more?",
-    "Where do you get Medical SchemeOur Health, our Futurelearn more?",
-    "What is the link to the Medical SchemeOur Health, our Futurelearn more?",
-    "How do you get Medical SchemeOur Health, our Futurelearn more?",
-    "How does Medical SchemeOur Health, our Futurelearn more works?",
-    "How can i get Medical SchemeOur Health, our Futurelearn more?",
-    "Who is the Medical SchemeOur Health, our Futurelearn more?",
-    "What is the Medical SchemeOur Health, our Futurelearn more?",
-    "Show me Medical SchemeOur Health, our Futurelearn more",
-    "How long did it take to have Medical SchemeOur Health, our Futurelearn more",
-    "How do i apply for Medical SchemeOur Health, our Futurelearn more?",
-    "Who is in Charge of Medical SchemeOur Health, our Futurelearn more?"
+    "Guide me to AGRISHOW?",
+    "Where do you get information about AGRISHOW ?",
+    "What is the link to AGRISHOW?",
+    "How do you get AGRISHOW information?",
+     "what is the link to online Agrishow exhibitors registration? "
   ],
-   "responses": ["You can use this link https://www.rssb.rw/scheme/medical-scheme for more information"
-   ]
-  },
-  {
-    "tag": "CBHI SchemeGiving you happiness at best ratelearn more",
-   "patterns": [
-    "Guide me to CBHI SchemeGiving you happiness at best ratelearn more?",
-    "Where do you get CBHI SchemeGiving you happiness at best ratelearn more?",
-    "What is the link to the CBHI SchemeGiving you happiness at best ratelearn more?",
-    "How do you get CBHI SchemeGiving you happiness at best ratelearn more?",
-    "How does CBHI SchemeGiving you happiness at best ratelearn more works?",
-    "How can i get CBHI SchemeGiving you happiness at best ratelearn more?",
-    "Who is the CBHI SchemeGiving you happiness at best ratelearn more?",
-    "What is the CBHI SchemeGiving you happiness at best ratelearn more?",
-    "Show me CBHI SchemeGiving you happiness at best ratelearn more",
-    "How long did it take to have CBHI SchemeGiving you happiness at best ratelearn more",
-    "How do i apply for CBHI SchemeGiving you happiness at best ratelearn more?",
-    "Who is in Charge of CBHI SchemeGiving you happiness at best ratelearn more?"
-  ],
-   "responses": ["You can use this link https://www.rssb.rw/scheme/cbhi-scheme for more information"
-   ]
-  },
-  {
-    "tag": "Pension SchemeRetire with dignitylearn more",
-   "patterns": [
-    "Guide me to Pension SchemeRetire with dignitylearn more?",
-    "Where do you get Pension SchemeRetire with dignitylearn more?",
-    "What is the link to the Pension SchemeRetire with dignitylearn more?",
-    "How do you get Pension SchemeRetire with dignitylearn more?",
-    "How does Pension SchemeRetire with dignitylearn more works?",
-    "How can i get Pension SchemeRetire with dignitylearn more?",
-    "Who is the Pension SchemeRetire with dignitylearn more?",
-    "What is the Pension SchemeRetire with dignitylearn more?",
-    "Show me Pension SchemeRetire with dignitylearn more",
-    "How long did it take to have Pension SchemeRetire with dignitylearn more",
-    "How do i apply for Pension SchemeRetire with dignitylearn more?",
-    "Who is in Charge of Pension SchemeRetire with dignitylearn more?"],
-   "responses": ["You can use this link https://www.rssb.rw/scheme/pension-scheme for more information"
-   ]
-  },
-  {
-    "tag": "Occupational HazardsWe are  here for youlearn more",
-   "patterns": [
-    "Guide me to Occupational HazardsWe are  here for youlearn more?",
-    "Where do you get Occupational HazardsWe are  here for youlearn more?",
-    "What is the link to the Occupational HazardsWe are  here for youlearn more?",
-    "How do you get Occupational HazardsWe are  here for youlearn more?",
-    "How does Occupational HazardsWe are  here for youlearn more works?",
-    "How can i get Occupational HazardsWe are  here for youlearn more?",
-    "Who is the Occupational HazardsWe are  here for youlearn more?",
-    "What is the Occupational HazardsWe are  here for youlearn more?",
-    "Show me Occupational HazardsWe are  here for youlearn more",
-    "How long did it take to have Occupational HazardsWe are  here for youlearn more",
-    "How do i apply for Occupational HazardsWe are  here for youlearn more?",
-    "Who is in Charge of Occupational HazardsWe are  here for youlearn more?"
-  ],
-   "responses": ["You can use this link https://www.rssb.rw/scheme/occupational-hazards for more information"
-   ]
-  },
-  {
-    "tag": "EjoHezaStart early and reap the rewards.learn more",
-   "patterns": [
-    "Guide me to EjoHezaStart early and reap the rewards.learn more?",
-    "Where do you get EjoHezaStart early and reap the rewards.learn more?",
-    "What is the link to the EjoHezaStart early and reap the rewards.learn more?",
-    "How do you get EjoHezaStart early and reap the rewards.learn more?",
-    "How does EjoHezaStart early and reap the rewards.learn more works?",
-    "How can i get EjoHezaStart early and reap the rewards.learn more?",
-    "Who is the EjoHezaStart early and reap the rewards.learn more?",
-    "What is the EjoHezaStart early and reap the rewards.learn more?",
-    "Show me EjoHezaStart early and reap the rewards.learn more",
-    "How long did it take to have EjoHezaStart early and reap the rewards.learn more",
-    "How do i apply for EjoHezaStart early and reap the rewards.learn more?",
-    "Who is in Charge of EjoHezaStart early and reap the rewards.learn more?"
-  ],
-   "responses": ["You can use this link https://www.rssb.rw/scheme/ejo-heza for more information"
-   ]
-  },
-  {
-    "tag": "Check Contribution",
-   "patterns": [
-    "Guide me to Check Contribution?",
-    "Where do you get Check Contribution?",
-    "What is the link to the Check Contribution?",
-    "How do you get Check Contribution?",
-    "How does Check Contribution works?",
-    "How can i get Check Contribution?",
-    "Who is the Check Contribution?",
-    "What is the Check Contribution?",
-    "Show me Check Contribution",
-    "How long did it take to have Check Contribution",
-    "How do i apply for Check Contribution?",
-    "Who is in Charge of Check Contribution?"
-  ],
-   "responses": ["You can use this link https://www.rssb.rwhttps://www.imisanzu.rssb.rw/ for more information"]},
-  {
-    "tag": "RSSB Clearance Certificate",
-   "patterns": [
-    "Guide me to RSSB Clearance Certificate?",
-    "Where do you get RSSB Clearance Certificate?",
-    "What is the link to the RSSB Clearance Certificate?",
-    "How do you get RSSB Clearance Certificate?",
-    "How does RSSB Clearance Certificate works?",
-    "How can i get RSSB Clearance Certificate?",
-    "Who is the RSSB Clearance Certificate?",
-    "What is the RSSB Clearance Certificate?",
-    "Show me RSSB Clearance Certificate",
-    "How long did it take to have RSSB Clearance Certificate",
-    "How do i apply for RSSB Clearance Certificate?",
-    "Who is in Charge of RSSB Clearance Certificate?"
-  ],
-   "responses": ["You can use this link https://www.rssb.rwhttps://www.rra.gov.rw/fileadmin/user_upload/tcc.html for more information"
-   ]
-  },
-  {
-    "tag": "Apply for Employee Number",
-   "patterns": [
-    "Guide me to Apply for Employee Number?",
-    "Where do you get Apply for Employee Number?",
-    "What is the link to the Apply for Employee Number?",
-    "How do you get Apply for Employee Number?",
-    "How does Apply for Employee Number works?",
-    "How can i get Apply for Employee Number?",
-    "Who is the Apply for Employee Number?",
-    "What is the Apply for Employee Number?",
-    "Show me Apply for Employee Number",
-    "How long did it take to have Apply for Employee Number",
-    "How do i apply for Apply for Employee Number?",
-    "Who is in Charge of Apply for Employee Number?"
-  ],
-   "responses": ["You can use this link https://www.rssb.rwhttps://online.rssb.rw/index1152.php?menu=employer for more information"
-   ]
-  },
-  {
-    "tag": "Pay Employee Contributions",
-   "patterns": [
-    "Guide me to Pay Employee Contributions?",
-    "Where do you get Pay Employee Contributions?",
-    "What is the link to the Pay Employee Contributions?",
-    "How do you get Pay Employee Contributions?",
-    "How does Pay Employee Contributions works?",
-    "How can i get Pay Employee Contributions?",
-    "Who is the Pay Employee Contributions?",
-    "What is the Pay Employee Contributions?",
-    "Show me Pay Employee Contributions",
-    "How long did it take to have Pay Employee Contributions",
-    "How do i apply for Pay Employee Contributions?",
-    "Who is in Charge of Pay Employee Contributions?"],
-   "responses": ["You can use this link https://www.rssb.rwhttps://etax.rra.gov.rw/ for more information"
+   "responses": ["You can use this link https://www.minagri.gov.rw/1/agrishow-1 for more information"
    ]
   },
     {
-      "tag": "funny",
-      "patterns": [
-        "Tell me a joke!",
-        "Tell me something funny!",
-        "Do you know a joke?"
-      ],
+    "tag": "MIS",
+   "patterns": [
+    "Guide me to MIS?",
+    "What is the link to MIS?",
+    "How do you get MIS form?",
+     "what is the link to online MIS? "
+  ],
+   "responses": ["You can use this link https://mis.minagri.gov.rw/mis/dhis-web-commons/security/login.action"
+   ]
+  },
+ 
+  
+
+
+    {
+      "tag": "crop monitor",
+        "patterns": [
+    "Guide me to crop monitorn?",
+    "Where do you get crop monitorn?",
+    "What is the link to crop monitor?",
+    "How do you get crop monitor documents ?",
+    "How does crop monitorn works?",
+    "How can i get crop monitor?",
+    "What is the crop monitor?",
+    "Show me monthly bulletins",
+    "How long did it take to have monthly bulletins",
+    "How do i get monthly bulletins?",
+    "Who is in Charge monthly bulletins?"
+  ],
       "responses": [
-        "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
-        "What did the buffalo say when his son left for college? Bison."
+        "You can use this link https://www.minagri.gov.rw/monthly-bulletins"
       ]
     }
   ]
